@@ -1,0 +1,29 @@
+# Node / Frontend
+node_modules/
+build/
+dist/
+coverage/
+*.log
+
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Temporary Uploads & Data
+data/uploads/
+*.pdf
+.DS_Store

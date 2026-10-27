@@ -1,0 +1,6 @@
+{
+  "name": "AI Student Assistant Agent",
+  "description": "Comprehensive AI Student Assistant Agent demonstrating prompt processing, memory, document QA, exam notes, quizzes, and personalized study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
